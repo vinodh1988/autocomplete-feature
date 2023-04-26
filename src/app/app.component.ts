@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'auto-complete-demo';
+  city:string=""
+  cities:any=[]
+
+  displayFn(data:any):string{
+    return data;
+  }
 }
