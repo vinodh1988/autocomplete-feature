@@ -1,0 +1,24 @@
+{
+    "places" :  [
+      {"city" : "Ahmedabad", "state" : "Gujarat"},
+      {"city" : "Chennai", "state" : "TamilNadu"},
+      {"city" : "Trichy", "state" : "TamilNadu"},
+      {"city" : "Coimbatore", "state" : "TamilNadu"},
+      {"city" : "Selam", "state" : "TamilNadu"},
+      {"city" : "Hyderabad", "state" : "Telangana"},
+      {"city" : "Warangal", "state" : "Telangana"},
+      {"city" : "Delhi", "state" : "Delhi"},
+      {"city" : "Srinagar", "state" : "Kashmir"},
+      {"city" : "Amritsar", "state" : "Punjab"},
+      {"city" : "Chandigarh", "state" : "Punjab"},
+      {"city" : "Gurgoan", "state" : "Haryana"},
+      {"city" : "Lucknow", "state" : "Uttar Pradesh"},
+      {"city" : "Varanasi", "state" : "Uttar Pradesh"},
+      {"city" : "Kanpur", "state" : "Uttar Pradesh"},
+      {"city" : "Noida", "state" : "Uttar Pradesh"},
+      {"city" : "Jaipur", "state" : "Rajastan"},
+      {"city" : "Meerut", "state" : "Rajastan"},
+      {"city" : "Mumbai", "state" : "Maharashtra"},
+      {"city" : "Pune", "state" : "Maharashtra"}
+    ]
+ }
